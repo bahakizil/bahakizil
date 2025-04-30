@@ -40,15 +40,6 @@
 
 ---
 
-## 🧭 Contributor Activity
-
-<p align="center">
-  <img src="github-metrics.svg" alt="Metrics" />
-</p>
-
-
----
-
 ## 🐍 GitHub Contribution Snake
 <p align="center">
   <picture>
@@ -56,4 +47,11 @@
     <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
     <img alt="github-snake" src="dist/github-snake.svg" />
   </picture>
+</p>
+
+---
+
+## 🧭 Contributor Activity (Metrics)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bahakizil/bahakizil/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
