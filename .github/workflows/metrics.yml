@@ -1,7 +1,9 @@
+# .github/workflows/metrics.yml
 name: Metrics
 
 on:
-  schedule: [{cron: "0 0 * * *"}]
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,7 +12,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-metrics.svg
           base: activity
+          plugin_isocalendar: yes
           config_timezone: Europe/Istanbul
