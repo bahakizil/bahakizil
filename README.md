@@ -40,6 +40,15 @@
 
 ---
 
+## 🧭 Contributor Activity
+
+<p align="center">
+  <img src="github-metrics.svg" alt="Metrics" />
+</p>
+
+
+---
+
 ## 🐍 GitHub Contribution Snake
 <p align="center">
   <picture>
