@@ -49,9 +49,3 @@
   </picture>
 </p>
 
----
-
-## 🧭 Contributor Activity (Metrics)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bahakizil/bahakizil/main/github-metrics.svg" alt="GitHub Metrics" />
-</p>
