@@ -13,7 +13,6 @@
   <a href="mailto:kizilbaha26@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email" />
   </a>
-
 </div>
 
 ---
@@ -26,14 +25,10 @@
 
 ---
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&style=flat-square" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&style=flat-square" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&style=flat-square" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&style=flat-square" />
-  <img src="https://img.shields.io/badge/DeepStream-0B75C9?style=flat-square" />
-</p>
+## ➕ Skills & Tools
++ Python + PyTorch + TensorFlow + OpenCV + YOLOv8/v11  
++ DeepStream + TensorRT + Docker + GitHub Actions  
++ Jetson Orin Nano + Raspberry Pi + Arduino + REST API
 
 ---
 
@@ -53,4 +48,3 @@
     <img alt="github-snake" src="dist/github-snake.svg" />
   </picture>
 </p>
----
