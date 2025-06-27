@@ -27,7 +27,7 @@
 
 ## ➕ Skills & Tools
 + Python + PyTorch + TensorFlow + OpenCV + YOLOv8/v11  
-+ DeepStream + TensorRT + Docker + GitHub Actions  
++ DeepStream + TensorRT + Docker   
 + Jetson Orin Nano + Raspberry Pi + Arduino + REST API
 
 ---
