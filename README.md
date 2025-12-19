@@ -1,19 +1,10 @@
-<!-- Baha Kızıl's GitHub Profile README -->
+ # 👋 Hi, I'm Baha KIZIL
 
-  <div align="center">
-    <h1>👋 Hi, I'm Baha KIZIL</h1>
-    <p>AI Engineer</p>
+  **AI Engineer**
 
-    <a href="https://www.linkedin.com/in/bahakizil/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
-    </a>
-    <a href="https://medium.com/@bahakizil">
-      <img src="https://img.shields.io/badge/Medium-Read-000000?style=flat-square&logo=medium" alt="Medium" />
-    </a>
-    <a href="mailto:kizilbaha26@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email" />
-    </a>
-  </div>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bahakizil/)
+  [![Medium](https://img.shields.io/badge/Medium-Read-000000?style=flat-square&logo=medium)](https://medium.com/@bahakizil)
+  [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:kizilbaha26@gmail.com)
 
   ---
 
@@ -45,18 +36,13 @@
   ---
 
   ## 📈 GitHub Stats
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=bahakizil&show_icons=true&theme=radical" alt="Baha's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahakizil&layout=compact&theme=radical" alt="Top Languages" />
-  </p>
+
+  ![Baha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bahakizil&show_icons=true&theme=radical)
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bahakizil&layout=compact&theme=radical)
 
   ---
 
   ## 🐍 GitHub Contribution Snake
-  <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-      <img alt="github-snake" src="dist/github-snake.svg" />
-    </picture>
-  </p>
+
+  ![github-snake](dist/github-snake.svg)
