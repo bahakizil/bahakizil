@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>👋 Hi, I'm Baha KIZIL</h1>
-  <p>AI Developer</p>
+  <p>AI Engineer</p>
 
   <a href="https://www.linkedin.com/in/bahakizil/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
