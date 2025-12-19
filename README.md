@@ -1,5 +1,4 @@
-
-  <!-- Baha Kızıl's GitHub Profile README -->
+<!-- Baha Kızıl's GitHub Profile README -->
 
   <div align="center">
     <h1>👋 Hi, I'm Baha KIZIL</h1>
@@ -61,4 +60,3 @@
       <img alt="github-snake" src="dist/github-snake.svg" />
     </picture>
   </p>
-
